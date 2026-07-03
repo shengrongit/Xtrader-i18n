@@ -22,6 +22,8 @@
   "common.copy": "Salin",
   "common.copySuccess": "Tersalin",
   "common.processing": "Memproses",
+  "appleIap.toast.success": "Pembayaran berhasil",
+  "appleIap.toast.fail": "Pembayaran Apple gagal, coba lagi nanti",
   "tabbar.home": "Beranda",
   "tabbar.games": "Kontes",
   "tabbar.account": "Akun live",

@@ -22,6 +22,8 @@
   "common.copy": "Sao chép",
   "common.copySuccess": "Đã sao chép",
   "common.processing": "Đang xử lý",
+  "appleIap.toast.success": "Thanh toán thành công",
+  "appleIap.toast.fail": "Thanh toán Apple thất bại, vui lòng thử lại sau",
   "tabbar.home": "Trang chủ",
   "tabbar.games": "Thi đấu",
   "tabbar.account": "TK thực",
