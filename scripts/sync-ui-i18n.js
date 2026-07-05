@@ -5,8 +5,8 @@ const fs = require('fs')
 const path = require('path')
 
 const zhPath = path.resolve(__dirname, '../../assessment_uniapp/src/locale/zh-Hans.json')
-const viPath = path.resolve(__dirname, '../i18n/vi-VN.3.json')
-const idPath = path.resolve(__dirname, '../i18n/id-ID.1.json')
+const viPath = path.resolve(__dirname, '../i18n/vi-VN.5.json')
+const idPath = path.resolve(__dirname, '../i18n/id-ID.3.json')
 const viUiPath = path.resolve(__dirname, './ui-vi.json')
 const idUiPath = path.resolve(__dirname, './ui-id.json')
 

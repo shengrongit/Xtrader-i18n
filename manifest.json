@@ -1,10 +1,10 @@
 {
-  "version": "2026-07-03",
+  "version": "2026-07-05",
   "languages": [
     {
       "code": "vi-VN",
       "label": "Tiếng Việt",
-      "version": "4",
+      "version": "5",
       "uniLocale": "vi",
       "bucket": "vi",
       "fallback": "en-US"
@@ -12,7 +12,7 @@
     {
       "code": "id-ID",
       "label": "Bahasa Indonesia",
-      "version": "2",
+      "version": "3",
       "uniLocale": "en",
       "bucket": "en",
       "fallback": "en-US"
