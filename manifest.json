@@ -4,7 +4,7 @@
     {
       "code": "vi-VN",
       "label": "Tiếng Việt",
-      "version": "6",
+      "version": "7",
       "uniLocale": "vi",
       "bucket": "vi",
       "fallback": "en-US"
@@ -12,7 +12,7 @@
     {
       "code": "id-ID",
       "label": "Bahasa Indonesia",
-      "version": "4",
+      "version": "5",
       "uniLocale": "en",
       "bucket": "en",
       "fallback": "en-US"
