@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-25",
+  "version": "2026-07-31",
   "languages": [
     {
       "code": "vi-VN",
@@ -14,6 +14,38 @@
       "label": "Bahasa Indonesia",
       "version": "6",
       "uniLocale": "en",
+      "bucket": "en",
+      "fallback": "en-US"
+    },
+    {
+      "code": "ja-JP",
+      "label": "日本語",
+      "version": "1",
+      "uniLocale": "ja",
+      "bucket": "en",
+      "fallback": "en-US"
+    },
+    {
+      "code": "ko-KR",
+      "label": "한국어",
+      "version": "1",
+      "uniLocale": "ko",
+      "bucket": "en",
+      "fallback": "en-US"
+    },
+    {
+      "code": "es-ES",
+      "label": "Español",
+      "version": "1",
+      "uniLocale": "es",
+      "bucket": "en",
+      "fallback": "en-US"
+    },
+    {
+      "code": "pt-BR",
+      "label": "Português",
+      "version": "1",
+      "uniLocale": "pt",
       "bucket": "en",
       "fallback": "en-US"
     }

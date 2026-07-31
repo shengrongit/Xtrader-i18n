@@ -1,0 +1,598 @@
+{
+  "rules": [
+    {
+      "id": 1,
+      "question": "# I. Contexto do projeto",
+      "answer": "A equipe Xtrader está profundamente envolvida há muito tempo nos mercados de CFD de ouro e prata spot, com sólidos recursos financeiros e um robusto sistema de controle de riscos. Para aproveitar ainda mais suas vantagens profissionais, lançou oficialmente o «Programa de Recrutamento de Traders Proprietários», buscando traders em todo o mundo com habilidades profissionais e experiência prática em trading.\n\nPortal de inscrição para avaliação de traders Xtrader:\nConta de atendimento ao cliente Xtrader (barra de menu inferior → [Avaliação gratuita])\n\nCom amplo capital proprietário fornecido pela Xtrader, os traders participam do trading de CFD no mercado global de ouro utilizando suas próprias estratégias e capacidades de execução, alcançando lucros estáveis com risco controlável. A Xtrader estabelecerá um mecanismo de gestão de capital em fases, um rigoroso sistema de controle de riscos e critérios científicos de avaliação de desempenho para garantir que a equipe busque retornos de longo prazo por meio de operações estáveis.\n\nPara atrair e motivar talentos excepcionais, a Xtrader estabeleceu um esquema de recompensas multifacetado que combina incentivos baseados em desempenho com incentivos de longo prazo, além de um mecanismo de promoção. Traders de alto desempenho obterão maior controle sobre a alocação de capital e uma participação nos lucros mais elevada.\n\nA Xtrader adere aos princípios de «Profissionalismo, estabilidade e cooperação mutuamente benéfica» e está comprometida em construir uma equipe de trading proprietário de alto nível em escala global, permitindo que os traders realizem seu valor pessoal enquanto compartilham as oportunidades de crescimento no mercado global de ouro."
+    },
+    {
+      "id": 2,
+      "question": "# II. Público-alvo e requisitos de seleção",
+      "answer": "1. Público-alvo: Traders ou equipes com experiência de trading em tempo real nos mercados financeiros.\n\n2. Requisitos de seleção\n1) A seleção de traders envolve duas etapas: avaliação simulada e compartilhamento de lucros em conta real.\n2) A avaliação simulada consiste em duas etapas: teste preliminar e teste final. Traders que passarem em ambas as etapas de avaliação receberão uma conta de trading real. As regras para ambas as etapas de avaliação são idênticas.\n3) O tamanho dos fundos e a proporção de compartilhamento de lucros em uma conta de trading real baseiam-se inteiramente no desempenho de trading da conta demo do trader. Os fundos da conta real variam de USD 1.000 a USD 100.000; as proporções de compartilhamento de lucros em conta real variam de 30% a 90%.\n4) Instrumentos de trading: Ouro spot, Prata spot.\n\n## Regras da avaliação simulada (iguais para ambas as etapas)\n1) Período de avaliação: 90 dias, a partir da primeira operação.\n2) Eliminação: Quando o valor líquido da conta cair abaixo de 9000, a avaliação é considerada reprovada. O sistema liquidará automaticamente todas as posições e restringirá as permissões de trading da conta. Esta avaliação não impõe restrições sobre o trading e não inclui drawdowns dinâmicos intradiários.\n3) Meta de lucro: O valor patrimonial líquido da conta deve atingir pelo menos 11.000 quando não houver posições abertas.\n4) Requisito de posições fechadas: O número de posições fechadas deve atingir pelo menos 30 lotes padrão (não o número de operações/vezes).\n5) Dias mínimos de trading: A conta deve ter operado por no mínimo 10 dias de trading; a data de fechamento é usada como referência estatística.\n6) Critério de promoção na avaliação: Quando a conta atender simultaneamente aos seguintes critérios: lucro de 10% + mínimo de 10 dias de trading + 30 posições fechadas, o desafio é considerado bem-sucedido. Nesse momento, o trader precisa consultar o atendimento ao cliente e solicitar avançar para a próxima etapa da conta.\n7) Estatísticas de lotes: Para facilitar as estatísticas, é definida uma comissão de USD 1 por lote. Ao revisar operações fechadas, se a comissão atingir USD 30 dentro do período de avaliação válido, significa que o requisito de 30 lotes padrão foi cumprido.\n8) Margem: A margem fixa por lote é USD 20.000. Tamanho máximo de posição aberta = Patrimônio da conta / Margem por lote de USD 20.000. Por exemplo, uma conta com USD 10.000 de capital tem tamanho máximo de posição aberta de 0,5 lotes (10.000/20.000).\n9) Atualizações de regras: As regras de avaliação desta atividade serão atualizadas com base nas condições operacionais reais; em caso de alterações, prevalecerá a explicação oficial ou a interpretação do atendimento ao cliente."
+    },
+    {
+      "id": 3,
+      "question": "# III. Compartilhamento de lucros em conta real",
+      "answer": "1) Não há restrições sobre o número de operações, estratégias, ordens de take-profit e stop-loss, ou drawdown por operação em contas de trading real.\n2) As regras do trading real são as mesmas da avaliação simulada. As contas de trading real possuem apenas uma linha de stop-loss de 10%: quando o valor líquido em tempo real da conta cair abaixo de 90% do capital inicial da conta, o mecanismo de liquidação forçada do sistema será acionado, todas as posições da conta serão liquidadas à força e o trading será restringido.\n3) Os fundos na conta de trading real variam de USD 1.000 a USD 100.000; a proporção de compartilhamento de lucros varia de 30% a 90%.\n4) Quando a conta de trading real obtiver lucro de 10%, o trader pode solicitar ao atendimento ao cliente o compartilhamento dos lucros. Alternativamente, o trader pode optar por não sacar os lucros e solicitar upgrade para uma conta de trading real com mais fundos quando o lucro total da conta atingir 30%-50%.\n\n## Retirada de lucros\n1) Para melhorar a tolerância a erros dos traders (aumentar a margem de drawdown), a plataforma utiliza por padrão os primeiros 10% de lucro da conta de trading real como colchão de segurança. Por exemplo, uma conta com USD 10.000 de capital terá valor líquido de USD 11.000 quando obtiver lucro de USD 1.000; nesse momento, a conta só será eliminada se perder USD 2.000, aumentando assim a tolerância a erros.\n2) Quando o lucro da conta exceder 20%, o trader pode solicitar a retirada de 10% do lucro. Ou seja, após deduzir o colchão de segurança de 10%, o trader pode solicitar a retirada da participação nos lucros a cada lucro adicional de 10%.\n3) Os traders também podem sair proativamente e retirar toda ou qualquer participação nos lucros pendente de liquidação de uma só vez.\n\n## Exemplo\n\nPara uma conta com USD 10.000 de capital:\n\n-Quando a conta obtiver lucro de USD 1.000 (10%), se o trading continuar, esse valor não será sacado temporariamente;\n-Quando a conta obtiver lucro de USD 2.000 (20%), o trader pode solicitar a retirada de USD 1.000 (10%) da participação nos lucros;\n-Quando o trader optar por sair, todos os lucros pendentes de liquidação serão sacados de uma só vez."
+    }
+  ],
+  "rulesPaid": [
+    {
+      "id": 1,
+      "question": "1. Contexto do projeto",
+      "answer": "A equipe Xtrader está profundamente envolvida há muito tempo no mercado de CFD de ouro e prata spot, com sólidos recursos financeiros e um robusto sistema de controle de riscos. Para aproveitar ainda mais suas vantagens profissionais, a Xtrader lançou oficialmente o «Programa de Recrutamento de Prop Traders», buscando traders com habilidades profissionais e experiência prática em trading em todo o mundo.\n\nCom amplo capital proprietário fornecido pela Xtrader, os traders participam do trading de CFD no mercado global de ouro utilizando suas próprias estratégias e capacidades de execução, alcançando lucros estáveis com risco controlável. A Xtrader estabelecerá um mecanismo de gestão de capital em fases, um rigoroso sistema de controle de riscos e critérios científicos de avaliação de desempenho para garantir que a equipe busque retornos de longo prazo por meio de operações estáveis.\n\nA Xtrader adere aos princípios de «Profissionalismo, estabilidade e cooperação mutuamente benéfica» e está comprometida em construir uma equipe de trading proprietário de alto nível em escala global, permitindo que os traders realizem seu valor pessoal enquanto compartilham as oportunidades de crescimento no mercado global de ouro."
+    },
+    {
+      "id": 2,
+      "question": "2. Visão geral da avaliação paga",
+      "answer": "2.1 Avaliação paga e aprovação nas três etapas\nA avaliação simulada consiste em duas fases: Fase 1 e Fase 2; a última é a conta real com compartilhamento de lucros. A avaliação simulada segue as mesmas regras em ambas as fases. Traders que passarem nas duas fases de avaliações simuladas receberão uma conta de trading real com a mesma quantidade de fundos utilizada nas avaliações simuladas; a proporção de compartilhamento de lucros da conta real será de 80%.\n\n2.2 Taxa de inscrição\nPara conta de avaliação de 10.000 USD: 150 USD\nPromoção atual: 120 USD (sujeito às últimas atualizações)\nAs taxas de inscrição não são reembolsáveis em nenhuma circunstância, portanto, pague com cuidado.\n\n2.3 Instrumentos de trading\nOuro spot (XAUUSD), Prata spot (XAGUSD)\n\n2.4 Atividades de trading proibidas\nPara manter um ambiente de trading justo e imparcial, os seguintes comportamentos são estritamente proibidos. Se identificarmos qualquer violação, resultará em reprovação imediata na avaliação, desqualificação e a taxa de inscrição não será reembolsada:\n\na. Scalping ou trading de alta frequência: refere-se a atividades de trading em que o intervalo de tempo entre abertura e fechamento é inferior a 60 segundos (incluindo, mas não se limitando a, exploração de atrasos de cotação, entradas e saídas rápidas, etc.). Qualquer estratégia que visa obter lucros mínimos com intervalo de tempo extremamente curto é considerada violação.\n\nb. Trading com EA: Esta avaliação não suporta nenhum tipo de programa de trading automatizado, incluindo, mas não se limitando a, Expert Advisors (EA), scripts, algoritmos, ferramentas de colocação de ordens semiautomáticas, etc.\n\nc. Contas AB ou hedge com múltiplas contas: É proibido que o mesmo trader use várias contas (ou dentro da mesma conta) para abrir posições em direção oposta ou fazer hedge a fim de evitar riscos ou obter lucros de forma fraudulenta.\n\nd. Abuso de cotações ou arbitragem por atraso: É proibido utilizar atrasos de cotação da plataforma, vulnerabilidades de dados, liquidez anormal, etc. para trading de arbitragem.\n\ne. Manipulação maliciosa de ordens ou rotação de posições: É proibido trading irracional e frequente com o objetivo de obter rebates de comissão ou manipular estatísticas de volume de trading.\n\nf. Outros comportamentos enganosos, fraudulentos ou que perturbem o mercado: Incluem, mas não se limitam a, transações fictícias, manipulação de dados, exploração de brechas nas regras e perturbação da ordem normal de trading. Os traders devem aderir aos princípios de trading justo; qualquer tentativa de contornar as regras de avaliação ou prejudicar os interesses da plataforma é considerada violação.\n\nNota: A plataforma reserva-se o direito de interpretação final dos comportamentos proibidos mencionados e o direito de emitir julgamentos independentes com base nas características do comportamento de trading."
+    },
+    {
+      "id": 3,
+      "question": "3. Fase de avaliação simulada",
+      "answer": "3.1 Regras da avaliação simulada (Capital da conta: 10.000 USD / 10k)\n\n| Item | Requisito |\n| --- | --- |\n| Capital inicial | 10.000 USD (10k) |\n| Período de avaliação | Dentro de 90 dias |\n| Meta de lucro | 10%+ |\n| Requisitos de promoção | Requisito de posições fechadas: 18 lotes padrão + Dias mínimos de trading: 10 dias de trading+ |\n| Eliminação | Patrimônio em tempo real abaixo de 9.000 USD |\n| Limite de drawdown intradiário | Nenhum (sem restrições) |\n| Requisito de margem por lote | 20.000 USD (20k) |\n| Comissão por lote | 30 USD/lote |\n\n3.2 Explicações das regras de avaliação\n1. Período de avaliação: 90 dias, calculado a partir da primeira operação. Ambas as fases simuladas são iguais.\n2. Requisitos de promoção: Para passar na fase de avaliação quando todos os critérios a seguir forem atendidos: lucro de 10%+, pelo menos 10 dias de trading e alcançar 18 lotes fechados. Os traders devem clicar em «Solicitar promoção» no sistema e obter a conta da próxima etapa após aprovação.\na. Meta de lucro: O patrimônio deve atingir mais de 11.000 USD (lucro de 10%) sem posições abertas.\nb. Requisito de lotes fechados: O número total de lotes fechados deve atingir 18 lotes padrão ou mais (com base no volume fechado acumulado, não no número de operações).\nc. Mínimo de dias de trading: A conta deve ter sido operada por pelo menos 10 dias de trading (contabilizados pela data de fechamento).\n3. Esta avaliação não estabelece restrições sobre limites de drawdown dinâmico intradiário (ex.: drawdown intradiário de 5%).\n4. Eliminação: Quando o patrimônio da conta cair abaixo de 9000, a avaliação é considerada reprovada. O sistema liquidará automaticamente todas as posições e restringirá as permissões de trading da conta. Mesmo após a liquidação, se o patrimônio subir acima de 9000 devido a flutuações de preço, o desafio ainda é considerado reprovado.\n5. Comissão: A fase de trading real utiliza o modelo STP (Straight Through Processing); as ordens são colocadas diretamente no mercado. Devido a diferenças de liquidez ou flutuações de preço, a cotação pode diferir do preço de execução final. Para simular os custos reais de trading, é cobrada uma taxa de USD 30 por lote durante a fase de avaliação. Não há comissão na fase de trading real.\n6. Estatísticas de lotes: Se a comissão acumulada atingir 540 USD (18 lotes * 30 USD/lote) dentro do período de avaliação válido, considera-se cumprido o requisito de 18 lotes padrão.\n7. Requisito de margem: O requisito de margem por lote é fixo em 20.000 USD. Número máximo de lotes abertos = patrimônio da conta / requisito de margem de 20.000 por lote. Por exemplo, uma conta com 10.000 USD de capital tem número máximo de lotes abertos de 0,5 lotes (10.000 / requisito de margem de 20.000 por lote).\n8. Atualizações das regras de avaliação: As regras serão atualizadas com base nas condições operacionais reais. Em caso de alterações, prevalecerá a explicação oficial ou do atendimento ao cliente."
+    },
+    {
+      "id": 4,
+      "question": "4. Compartilhamento de lucros em conta real",
+      "answer": "4.1 Regras da conta real\n\n| Item | Detalhes |\n| --- | --- |\n| Capital inicial | 10.000 USD |\n| Proporção de compartilhamento de lucros | 80% |\n| Eliminação | Patrimônio em tempo real abaixo de 9.000 USD |\n| Limite de drawdown intradiário | Nenhum (sem restrições) |\n| Colchão de segurança reservado | 20% |\n| Condições de compartilhamento de lucros | A cada 10% de lucro após deduzir o colchão de segurança de 20% |\n\n4.2 Explicações das regras de trading real\n1. Sem restrições adicionais: Contas de trading real não possuem restrições sobre número de lotes, estratégias, ordens de take-profit e stop-loss, ou drawdown por operação.\n2. Mecanismo de eliminação: Contas de trading real possuem apenas um nível de stop-loss de 10%. Quando o patrimônio da conta cair abaixo de 90% do capital inicial (ou seja, quando o patrimônio de uma conta de 10.000 cair abaixo de 9.000), o sistema forçará a liquidação e restringirá o trading.\n3. Colchão de segurança: Para aumentar a tolerância a erros dos traders, a plataforma utiliza por padrão 20% dos lucros das contas de trading real como colchão de segurança.\nPor exemplo: Se uma conta com 10.000 USD obtiver lucro de 2.000 USD, seu patrimônio atinge 12.000 USD; agora precisa perder 3.000 USD para ser eliminada (ou seja, o drawdown foi ampliado).\n4. Retirada de lucros (em lucro): Quando o lucro da conta exceder 30%, o trader pode solicitar a retirada de 10% do lucro. Após deduzir o colchão de segurança de 20%, a cada lucro adicional de 10%, o trader pode solicitar a retirada da participação nos lucros correspondente a qualquer momento quando não houver posições abertas na conta.\n5. Saída voluntária: Quando a conta estiver em lucro, o trader pode sair voluntariamente e retirar todos os lucros pendentes de liquidação de uma só vez.\n6. Conta inativa: Se uma conta de trading real não for eliminada, mas estiver em prejuízo (patrimônio abaixo de 10.000 e acima de 9.000) e não tiver continuado operando por mais de 15 dias de trading desde a última transação, será considerada como abandono automático da conta de trading real, e a plataforma tem o direito de zerar os fundos da conta."
+    },
+    {
+      "id": 5,
+      "question": "5. Especificações de trading",
+      "answer": "|Item|XAUUSDnn (Ouro)|XAGUSDnn (Prata)|\n|Tamanho do contrato|100 oz por lote|5.000 oz por lote|\n|Unidade de cotação|USD por oz|USD por oz|\n|Tick mínimo|0,01 USD/oz|0,001 USD/oz|\n|Spread|Flutuante ~30 pips|Flutuante|\n|Requisito de margem por lote|20.000 USD|20.000 USD|\n|Margem de hedge|Com base na perna maior|Com base na perna maior|\n|Distância de ordem pendente|100 pips do preço de mercado|100 pips do preço de mercado|\n|Volume mínimo|0,01 lote|0,01 lote|\n|Incremento|0,01 lote|0,01 lote|\n|Swap overnight|Long: 55 USD/lote<br/>Short: 20 USD/lote<br/>Cobrança tripla às quartas-feiras (conforme a plataforma)|Long: 20 USD/lote<br/>Short: 10 USD/lote<br/>Cobrança tripla às quartas-feiras (conforme a plataforma)|\n|Liquidação forçada|Horário de trading: Patrimônio/Requisito de margem ≤80%<br/>Fim de semana/Feriados: Patrimônio/Requisito de margem ≤100%|Horário de trading: Patrimônio/Requisito de margem ≤80%<br/>Fim de semana/Feriados: Patrimônio/Requisito de margem ≤100%|\n|Horário de trading|Seg–Qui: 01:00 – 24:00<br/>Sex: 01:00 – 23:30 (feriados conforme aviso)|Seg–Qui: 01:00 – 24:00<br/>Sex: 01:00 – 23:30 (feriados conforme aviso)|\n|Fuso horário do servidor|DST: GMT+3 (UTC+3)<br/>Padrão: GMT+2 (UTC+2)|DST: GMT+3 (UTC+3)<br/>Padrão: GMT+2 (UTC+2)|"
+    }
+  ],
+  "faq": [
+    {
+      "id": 1,
+      "question": "Como me inscrevo na avaliação de trader?",
+      "answer": "Você pode se inscrever na Avaliação de Trader Xtrader pelos seguintes canais oficiais:\n- Site oficial: https://xtrader.xwgold19.com/\n- Conta de serviço WeChat Xtrader: menu inferior → [Avaliação gratuita]"
+    },
+    {
+      "id": 2,
+      "question": "Quais são as regras da avaliação de trader?",
+      "answer": "A avaliação de trader consiste na Etapa 1 e na Etapa 2, e as regras são as mesmas em ambas as etapas. Você pode avançar para a próxima etapa ao atender as três condições abaixo:\n- Lucro acumulado ≥ 10%\n- Total de operações concluídas ≥ 30 lotes (posições fechadas)\n- Total ≥ 10 dias de trading\nNão há restrições adicionais além das mencionadas acima.\nPara detalhes: https://mp.weixin.qq.com/s/Lt5fiA1dBWgW8m5JkSJtPA"
+    },
+    {
+      "id": 3,
+      "question": "Por que preciso de verificação de identidade (KYC) se não é trading real?",
+      "answer": "A verificação de identidade ajuda a prevenir contas múltiplas, participação repetida e outros problemas, garantindo que os resultados da avaliação sejam autênticos, justos e verificáveis. Também fornece a base de conformidade para a emissão de uma conta real posteriormente."
+    },
+    {
+      "id": 4,
+      "question": "Como concluo a verificação de identidade (KYC)? Existe um tutorial?",
+      "answer": "Sim. Siga a Conta de serviço WeChat Xtrader e consulte o tutorial de KYC aqui: https://mp.weixin.qq.com/s/27susSs-t-BDgQ34O_2WyQ"
+    },
+    {
+      "id": 5,
+      "question": "Como posso convidar amigos para participar da avaliação?",
+      "answer": "Acesse [Perfil] e compartilhe seu código de convite exclusivo com seus amigos. Após um convite bem-sucedido, você pode ver os registros em [Indicações]."
+    },
+    {
+      "id": 6,
+      "question": "Se eu indicar alguém e a pessoa passar, receberei uma comissão?",
+      "answer": "Sim. Se o amigo que você indicou obtiver com sucesso uma conta real e gerar compartilhamento de lucros, você receberá 10% do lucro da empresa como recompensa por indicação."
+    },
+    {
+      "id": 7,
+      "question": "A avaliação de trader é paga?",
+      "answer": "Não. Não há taxa. Todos os usuários que concluírem a verificação de identidade (KYC) podem participar da avaliação de trader gratuitamente."
+    },
+    {
+      "id": 8,
+      "question": "Qual é a diferença entre a nova avaliação e a anterior?",
+      "answer": "As regras de avaliação permanecem as mesmas. A diferença é:\n- Antes, se você falhasse na Etapa 1, sua conta de trading existente seria resetada\n- Agora, se você falhar na Etapa 1, o sistema emitirá uma conta de trading totalmente nova"
+    },
+    {
+      "id": 9,
+      "question": "Não consigo encontrar a corretora/provedora de servidor 'xinwang'.",
+      "answer": "Recomendamos:\n- Desativar o Wi-Fi e tentar usar dados móveis\n- Ou baixar o aplicativo de trading MT5 mais recente do site oficial"
+    },
+    {
+      "id": 10,
+      "question": "Ao instalar o MT5 no computador, aparece um pop-up solicitando configurações do servidor proxy.",
+      "answer": "No campo Servidor, digite: xinwang. Deixe os demais campos em branco e clique em [OK].\nSe ainda não conseguir instalar, recomendamos usar o Google Chrome e baixar do site oficial:\n- Site oficial: www.xwgold19.com"
+    },
+    {
+      "id": 11,
+      "question": "Aparece autorização falhou / fiz login, mas não consigo abrir uma nova ordem.",
+      "answer": "Copie novamente ou digite manualmente sua senha de trading. Espaços extras podem ser adicionados ao copiar, o que pode causar falhas de autorização, problemas de login ou impossibilidade de abrir ordens."
+    },
+    {
+      "id": 12,
+      "question": "O requisito de 30 lotes é muito alto?",
+      "answer": "O objetivo principal da avaliação é identificar traders com rentabilidade estável de longo prazo. Poucas operações ou um período muito curto dificultam avaliar plenamente a estratégia e o controle de riscos, bem como determinar a alocação de capital real adequada posteriormente."
+    },
+    {
+      "id": 13,
+      "question": "Uma compra conta como 1 lote e uma venda conta como 1 lote?",
+      "answer": "Um «lote» refere-se ao tamanho da posição, não ao número de operações.\n- É calculado com base no tamanho do lote ao abrir a posição\n- Só é contabilizado após o fechamento da posição\n- Todos os dados baseiam-se em registros diários de posições fechadas"
+    },
+    {
+      "id": 14,
+      "question": "A avaliação parece difícil.",
+      "answer": "A avaliação é desafiadora, mas, no geral, é menos difícil do que a de muitos concorrentes. Muitos traders passaram com sucesso e obtiveram contas reais. Como a Etapa 1 e a Etapa 2 seguem as mesmas regras, se você passar na Etapa 1, a Etapa 2 geralmente não será um grande problema."
+    },
+    {
+      "id": 15,
+      "question": "Há requisitos de lucro diário, drawdown diário ou tempo de manutenção de posição?",
+      "answer": "Não. Você só precisa atender a estas três condições: lucro de 10% + 30 lotes + 10 dias de trading. Não há outras restrições.\nPara detalhes: https://mp.weixin.qq.com/s/Lt5fiA1dBWgW8m5JkSJtPA"
+    },
+    {
+      "id": 16,
+      "question": "Qual é a alavancagem na conta de trading de avaliação?",
+      "answer": "A avaliação utiliza um modelo de margem fixa. Ouro/Prata: margem de USD 20.000 por lote.\nAlavancagem = Valor do contrato / Margem = Preço × Tamanho do contrato / Margem. O tamanho do contrato é 100.\nExemplos:\n- Preço do ouro USD 4.000 → alavancagem aprox. 20x\n- Preço do ouro USD 5.000 → alavancagem aprox. 25x"
+    },
+    {
+      "id": 17,
+      "question": "Quanto capital real posso obter no final? Como é avaliado?",
+      "answer": "Avaliaremos de forma abrangente seus dados de trading da Etapa 2, incluindo índice de Sharpe, profit factor, retornos, proporção de ganhos/perdas, drawdown, dimensionamento de posições, etc., para determinar a alocação final de capital real."
+    },
+    {
+      "id": 18,
+      "question": "Posso refazer a avaliação?",
+      "answer": "Sim.\n- Se falhar na Etapa 1: o sistema emite automaticamente uma nova conta de avaliação todo fim de semana; não é necessário se inscrever novamente\n- Se falhar na Etapa 2: você pode refazer por meio de um indicador ou usando um Cartão Revive"
+    },
+    {
+      "id": 19,
+      "question": "A participação nos lucros de 30% parece um pouco baixa!",
+      "answer": "Após passar na avaliação de 2 etapas, você pode operar em uma conta real sem usar seu próprio capital. Se seu trading permanecer estável e lucrativo, após vários ciclos de compartilhamento de lucros você pode usar a participação obtida do capital inicial da empresa como colchão de drawdown para aumentar a proporção de compartilhamento:\n- Proporção de financiamento 10% → compartilhamento de lucros 50%\n- 20% → 70%\n- 30% → 90%"
+    },
+    {
+      "id": 20,
+      "question": "Se eu passar na avaliação, o capital real pode ser aumentado?",
+      "answer": "Sim. A empresa avaliará periodicamente contas com lucros consistentes e estáveis e ajustará a alocação de capital conforme necessário. Traders de alto desempenho terão maiores oportunidades de crescimento."
+    },
+    {
+      "id": 21,
+      "question": "Quanto capital inicial receberei para trading real?",
+      "answer": "O capital real inicial geralmente é de USD 1.000–10.000. O valor real será avaliado e ajustado gradualmente com base no seu desempenho de trading. Para traders que passam na avaliação, a conta real inicial costuma ser de USD 2.000–3.000 ou mais."
+    }
+  ],
+  "company": {
+    "hero": {
+      "titleEm": "Por que",
+      "titleMain": "escolher a XW Gold?",
+      "cards": [
+        {
+          "parts": [
+            {
+              "text": "Bolsa de Ouro de Hong Kong",
+              "hl": false
+            },
+            {
+              "text": "Membro AA nº 019",
+              "hl": true
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "text": "Titular de",
+              "hl": false
+            },
+            {
+              "text": "AA",
+              "hl": true
+            },
+            {
+              "text": "licença de trading de mercado",
+              "hl": false
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "text": "Qualificado para trading eletrônico",
+              "hl": false
+            }
+          ]
+        }
+      ],
+      "desc": "Aproveitando o status de Hong Kong como centro financeiro global, oferecemos aos clientes serviços de trading profissionais integrados para ouro spot, prata e outros produtos de metais preciosos."
+    },
+    "stats": [
+      {
+        "key": "s1",
+        "labelParts": [
+          {
+            "text": "Clientes atendidos",
+            "hl": false
+          }
+        ],
+        "valueParts": [
+          {
+            "text": "150, 000+",
+            "hl": true
+          }
+        ]
+      },
+      {
+        "key": "s2",
+        "labelParts": [
+          {
+            "text": "Foco em",
+            "hl": false
+          },
+          {
+            "text": "Ouro",
+            "hl": true
+          }
+        ],
+        "valueParts": [
+          {
+            "text": "Prata",
+            "hl": true
+          },
+          {
+            "text": "Metais preciosos",
+            "hl": false
+          }
+        ]
+      },
+      {
+        "key": "s3",
+        "labelParts": [
+          {
+            "text": "Licença regulatória",
+            "hl": true
+          }
+        ],
+        "valueParts": [
+          {
+            "text": "Conforme",
+            "hl": false
+          }
+        ]
+      },
+      {
+        "key": "s4",
+        "labelParts": [
+          {
+            "text": "7x24",
+            "hl": true
+          },
+          {
+            "text": "horas",
+            "hl": false
+          }
+        ],
+        "valueParts": [
+          {
+            "text": "Suporte multilíngue",
+            "hl": false
+          }
+        ]
+      }
+    ],
+    "sections": {
+      "certsTitle": "Certificados oficiais",
+      "contactTitle": "Contato"
+    },
+    "certs": {
+      "cert1": {
+        "title": "Certificado de associação",
+        "org": "(Bolsa de Ouro de Hong Kong)"
+      },
+      "cert2": {
+        "title": "Negociante de metais preciosos Classe A",
+        "org": "(Alfândega de Hong Kong)"
+      },
+      "cert3": {
+        "title": "Licença comercial",
+        "org": "(Bolsa de Ouro de Hong Kong)"
+      }
+    },
+    "features": {
+      "f1": {
+        "title": "Qualificações oficiais e regulação conforme",
+        "desc": "Uma importante plataforma de trading de metais preciosos em Hong Kong com longa história, oferecendo principalmente serviços de trading de ouro spot, prata e outros metais preciosos.\n\nA bolsa implementa um rigoroso sistema de associação e mecanismos regulatórios para garantir que o trading seja aberto, justo e transparente. Como parte importante de um centro financeiro internacional, a Bolsa de Ouro de Hong Kong oferece aos investidores globais instrumentos de trading altamente líquidos e diversificados, além de serviços de liquidação convenientes."
+      },
+      "f2": {
+        "title": "Mais de 15 anos de experiência em serviços de metais preciosos",
+        "desc": "A equipe Xinwang Gold possui em média mais de 15 anos de experiência profissional no setor de investimento em ouro spot, prata e outros metais preciosos.\n\nTemos profundo conhecimento das regras de funcionamento e das características do mercado global, e podemos oferecer aos investidores análise profissional, planejamento estratégico e atendimento individualizado para ajudá-los a aproveitar oportunidades, gerenciar riscos de forma eficaz e alcançar crescimento estável de longo prazo em um ambiente de mercado volátil."
+      },
+      "f3": {
+        "title": "Corretoras STP genuínas",
+        "desc": "A Xinwang Gold é uma corretora STP autêntica, na qual todas as ordens de trading dos clientes são conectadas diretamente ao mercado global por meio do modelo Straight Through Processing.\n\nSem intervenção humana, garantindo preços transparentes, execução rápida e equidade. Emparelhamos operações com múltiplos provedores de liquidez de primeiro nível, oferecendo aos clientes um ambiente de trading com spreads baixos, alta liquidez e estabilidade, aproximando cada operação do preço real de mercado."
+      }
+    },
+    "contact": {
+      "biz": "Negócios:",
+      "email": "E-mail:",
+      "addressLabel": "Endereço:",
+      "phone": "(+852) 53723536",
+      "emailValue": "marketing@xwgold19.com",
+      "address": "Room 1006, 10/F, Gold & Silver Commercial Building, 12-18 Mercer Street, Sheung Wan, Hong Kong"
+    }
+  },
+  "privacy": {
+    "title": "Política de Privacidade",
+    "intro": [
+      "Prezado usuário do Xtrader APP,",
+      "Bem-vindo aos nossos produtos e serviços (doravante denominados \"Xtrader APP\" ou \"nós\"). Esta Política de Privacidade do Xtrader APP (a \"Política\") é estabelecida por nós. Compreendemos plenamente a importância das suas informações pessoais e valorizamos a confiança que você deposita em nós. Cumpriremos rigorosamente as leis e regulamentos aplicáveis e implementaremos medidas de segurança robustas para manter suas informações pessoais seguras e sob controle.",
+      "Para fornecer serviços precisos e abrangentes, o Xtrader APP processará suas informações pessoais de acordo com esta Política de Privacidade com devido cuidado e diligência. Salvo disposição expressa nesta Política, o Xtrader APP não divulgará nem fornecerá suas informações pessoais a terceiros sem o seu consentimento prévio por escrito. Podemos atualizar esta Política de Privacidade periodicamente com base em requisitos operacionais e regulatórios.",
+      "Antes de utilizar nossos produtos e serviços, leia e compreenda integralmente todos os termos desta Política, prestando especial atenção às disposições essenciais destacadas em negrito. Confirme que compreende plenamente e concorda com todas as regras antes de utilizar. Esta Política de Privacidade é parte integrante dos Termos de Serviço do Xtrader APP. Esta Política explica claramente como coletamos, utilizamos, armazenamos e divulgamos informações pessoais quando você utiliza o Xtrader APP, e estabelece seus direitos sobre as informações. As disposições essenciais relativas aos direitos sobre informações pessoais estão destacadas em negrito.",
+      "Se tiver dúvidas, comentários ou sugestões sobre esta Política, entre em contato conosco pelos dados oficiais indicados ao final deste documento.",
+      "Ao clicar ou marcar \"Concordo\" no APP e enviar sua confirmação, você confirma que leu, compreendeu integralmente e concordou voluntariamente com todos os termos desta Política, e autoriza o Xtrader APP a coletar, utilizar, armazenar e divulgar suas informações pessoais conforme descrito neste documento."
+    ],
+    "tocTitle": "Índice",
+    "toc": [
+      "Escopo de Aplicação",
+      "Como Coletamos Suas Informações Pessoais",
+      "Como Utilizamos Suas Informações Pessoais",
+      "Como Divulgamos Suas Informações Pessoais",
+      "Como Utilizamos Cookies",
+      "Como Armazenamos e Protegemos Suas Informações Pessoais",
+      "Seus Direitos",
+      "Como Protegemos Informações de Menores",
+      "Armazenamento de Dados Faciais e Compartilhamento com Terceiros",
+      "Provedores Terceiros e Seus Serviços",
+      "Como Esta Política É Atualizada",
+      "Como Entrar em Contato"
+    ],
+    "sections": [
+      {
+        "title": "1. Escopo de Aplicação",
+        "paragraphs": [
+          "1.1 Definição de Informações Pessoais: Informações registradas eletronicamente ou por outros meios que possam identificar ou vincular-se a uma pessoa natural específica, incluindo nome, data de nascimento, documentos de identidade (RG, passaporte, etc.), informações biométricas, endereço de e-mail, endereço residencial, informações de conta, situação financeira, localização em tempo real e dados similares.",
+          "1.2 Definição de Informações Pessoais Sensíveis: Informações cuja divulgação ou uso ilícito possa causar dano à dignidade pessoal ou colocar em risco a segurança pessoal ou patrimonial, incluindo informações biométricas, crenças religiosas, identidade especial, informações de saúde e médicas, contas bancárias, rastreamento de localização e todas as informações pessoais de menores de 14 anos.",
+          "1.3 Limite de Escopo: Esta Política aplica-se apenas aos produtos e serviços próprios do Xtrader APP, e não a produtos ou serviços de terceiros fornecidos de forma independente por outras entidades ou indivíduos. Se você utilizar serviços de plataformas de terceiros, o tratamento das informações é regido pela política de privacidade do terceiro. Você deve ler separadamente os termos de privacidade de terceiros. A responsabilidade legal decorrente de coleta ou divulgação não autorizada por terceiros será assumida exclusivamente por esses terceiros."
+        ]
+      },
+      {
+        "title": "2. Como Coletamos Suas Informações Pessoais",
+        "paragraphs": [
+          "Enquanto você utiliza os serviços do Xtrader APP, cumprimos rigorosamente os princípios de legalidade, legitimidade e necessidade, coletando apenas informações necessárias para as funções básicas do produto."
+        ],
+        "subsections": [
+          {
+            "title": "2.1 Cadastro, Verificação de Identidade e Serviços de Conta",
+            "paragraphs": [
+              "2.1.1 Cadastro por E-mail: Quando você se cadastra utilizando e-mail e código de verificação por e-mail, coletamos seu endereço de e-mail. Você pode opcionalmente completar seu perfil. Essas informações são necessárias para o cadastro da conta e a segurança do login.",
+              "2.1.3 Verificação de Identidade por Reconhecimento Facial: Para concluir a verificação de identidade da conta (KYC), recuperação de conta, verificações de segurança e desbloqueio de riscos da conta, o Xtrader APP oferece verificação por reconhecimento facial. Se você optar por ativar a verificação facial, após autorizar ativamente o acesso à câmera, coletamos temporariamente suas imagens biométricas faciais para comparação de identidade:"
+            ],
+            "bullets": [
+              "Os dados faciais são utilizados apenas para comparação em tempo real a fim de confirmar a identidade do titular da conta; as imagens faciais originais não são armazenadas a longo prazo na nuvem após a verificação;",
+              "As informações biométricas faciais são utilizadas apenas para verificação de segurança da conta do Xtrader APP, não para publicidade ou marketing; os dados faciais são compartilhados apenas com nosso provedor de serviços de verificação de identidade (Alibaba Cloud), conforme descrito na Seção 2.1.5, exclusivamente para concluir a verificação KYC;",
+              "Os dados biométricos faciais são armazenados separadamente com criptografia e estão fisicamente isolados dos dados empresariais comuns."
+            ],
+            "footer": "2.1.4 Informações Enviadas e Compartilhadas pelo Usuário: Conteúdo e informações que você compartilha, envia, submete, armazena ou transmite ativamente a terceiros por meio dos serviços do APP."
+          },
+          {
+            "title": "2.1.5 Período de Armazenamento de Dados Faciais e Compartilhamento com Terceiros",
+            "paragraphs": [
+              "Quando você inicia ativamente a verificação de identidade por reconhecimento facial, nós e nosso provedor designado de serviços de verificação de identidade coletamos imagens faciais e dados de liveness detection da câmera do seu dispositivo exclusivamente para fins de verificação de identidade da conta (KYC)."
+            ],
+            "bullets": [
+              "Nosso período de armazenamento e motivos: As imagens faciais originais são excluídas de nossos servidores imediatamente após a conclusão da verificação em tempo real (normalmente em poucos minutos após o término da verificação). Não retemos indefinidamente imagens biométricas faciais brutas. Retemos apenas registros criptografados de resultados de verificação (por exemplo, status aprovado/reprovado, carimbo de data/hora da verificação, ID da transação) por até 5 anos a partir da data da verificação para cumprir requisitos de arquivo regulatório de anti-money laundering (AML) e know-your-customer (KYC), resolver disputas e prevenir fraudes. Todos os registros de verificação são excluídos em até 30 dias após a exclusão da conta. Retemos esses registros nesse período porque a regulamentação financeira aplicável exige trilhas de auditoria de verificação de identidade.",
+              "Terceiros com quem compartilhamos dados faciais: Alibaba Cloud Computing Co., Ltd. (via Real Person Certification / Financial-grade Face Recognition SDK, incluindo AP-FaceDetectModule e VerifyIntlUniPlugin).",
+              "Motivos do compartilhamento: Utilizamos o serviço certificado de verificação de identidade e liveness detection facial da Alibaba Cloud para realizar correspondência biométrica em tempo real com as informações do seu documento de identidade emitido pelo governo. Essa terceirização técnica é necessária para fornecer verificação KYC segura e conforme os padrões do setor, que não pode ser concluída integralmente no seu dispositivo.",
+              "Se terceiros armazenam dados faciais: Sim. Durante a verificação, suas imagens faciais são criptografadas e transmitidas aos servidores seguros da Alibaba Cloud para liveness detection e comparação de identidade.",
+              "Período de armazenamento de terceiros e motivos: A Alibaba Cloud armazena temporariamente imagens faciais brutas apenas pelo período necessário para concluir a verificação e as verificações anti-fraud relacionadas. As imagens faciais originais são excluídas em até 24 horas após a conclusão da verificação. A Alibaba Cloud retém logs de verificação de-identificados e registros de auditoria para prevenção de fraudes e conformidade regulatória por no máximo 180 dias, após o que são excluídos automaticamente. A Alibaba Cloud não utiliza seus dados faciais para publicidade ou marketing. Para detalhes, consulte a Política de Privacidade da Alibaba Cloud: https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202107281509_18386.html"
+            ]
+          },
+          {
+            "title": "2.2 Coleta Automática de Dispositivo, Permissões e Sistema",
+            "paragraphs": [
+              "Com base nas permissões do dispositivo que você concede ao instalar e utilizar o Xtrader APP, recebemos e registramos dados relacionados ao dispositivo: modelo, número de série, SO e versão, versão do cliente, lista de software instalado, endereço MAC, resolução de tela, nome do pacote, configurações do sistema, características de hardware/software; número de série do SIM, identificadores únicos do dispositivo (IDFA, IDFV, ADID, IMEI, MEID, Android ID, IMS, SSID); dados de localização (endereço IP, GPS, pontos de acesso WLAN, Bluetooth, dados de sensores de estações base); informações biométricas (o rosto é utilizado apenas para verificação de identidade da conta do APP; os dados biométricos brutos permanecem no seu dispositivo local autorizado e não são totalmente retidos na nuvem)."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3. Como Utilizamos Suas Informações Pessoais",
+        "paragraphs": [
+          "Utilizamos rigorosamente as informações coletadas em conformidade com leis, regulamentos e nossos acordos com você. Se precisarmos utilizar informações além do escopo abaixo, explicaremos previamente e obteremos seu consentimento explícito."
+        ],
+        "subsections": [
+          {
+            "title": "3.1 Usos Básicos das Informações Pessoais",
+            "paragraphs": [
+              "3.1.1 Notificações de Serviço: Envio de notificações de produtos e serviços com base nas suas informações; podemos compartilhar dados de-identificados com parceiros compliant para informações de serviço correspondentes, sem conteúdo que o identifique. Notificações pertinentes e alertas de segurança também são enviados ao seu e-mail cadastrado.",
+              "3.1.2 Operações Internas: Utilização de informações pessoais para auditorias internas, estatísticas, troubleshooting do sistema e pesquisa de comportamento do usuário."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. Como Divulgamos Suas Informações Pessoais",
+        "paragraphs": [
+          "O Xtrader APP divulgará suas informações pessoais total ou parcialmente apenas nos seguintes cenários legais ou acordados:",
+          "4.1 Com seu consentimento prévio explícito por escrito a terceiros;",
+          "4.2 Quando necessário para cumprir produtos ou serviços que você solicita, compartilhando com provedores de serviços parceiros; também pode ser utilizado para recomendações subsequentes e marketing;",
+          "4.3 Conforme exigido por leis, regulamentos ou documentos formais de autoridades administrativas ou judiciais;",
+          "4.4 Quando você violar leis ou acordos da plataforma, cooperando com autoridades; para prevenir fraudes e proteger a plataforma, os usuários e a segurança pública;",
+          "4.5 Disputas de propriedade intelectual: divulgação de informações básicas de contato mediante solicitação razoável da parte acusada;",
+          "4.6 Disputas comerciais: fornecimento do e-mail de contato da outra parte quando solicitado para cumprimento ou resolução de disputas;",
+          "4.7 Divulgação transfronteiriça: você concorda que podemos submeter dados empresariais e pessoais a reguladores e autoridades governamentais conforme requisitos regulatórios de Hong Kong e do exterior."
+        ],
+        "subsections": [
+          {
+            "title": "4.8 Cenários Legais que Não Exigem Sua Autorização",
+            "bullets": [
+              "4.8.1 Segurança nacional ou defesa;",
+              "4.8.2 Segurança pública, saúde pública ou interesses públicos relevantes;",
+              "4.8.3 Investigação, acusação, julgamento ou execução criminal;",
+              "4.8.4 Proteção da vida ou de bens importantes seus ou de terceiros quando o consentimento não puder ser obtido a tempo;",
+              "4.8.5 Informações pessoais que você divulgou publicamente;",
+              "4.8.6 Informações públicas obtidas legalmente de canais públicos legais;",
+              "4.8.7 Necessário para assinar ou executar um contrato a seu pedido;",
+              "4.8.8 Garantir operação estável do APP/serviço e tratar falhas do sistema ou riscos de segurança;",
+              "4.8.9 Necessário para reportagem jornalística lícita;",
+              "4.8.10 Outros cenários de divulgação conformes a leis, regulamentos ou regras da plataforma."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5. Como Utilizamos Cookies",
+        "paragraphs": [
+          "5.1 Uso Básico de Cookies: Se você não rejeitar Cookies, gravamos identificadores de Cookie no seu dispositivo para registrar o uso do APP/web, garantindo login e outras funções; Cookies suportam verificações de segurança, troubleshooting, preenchimento automático de formulários, memória de login e memória de busca.",
+          "5.2 Análise: O Xtrader APP armazena Cookies para estatísticas de eficácia promocional e rastreamento de páginas; os dados de Cookie são de-identificados e não podem identificar um indivíduo.",
+          "5.3 Dados de Cookie: Todas as informações coletadas via Cookies estão sujeitas a esta Política de Privacidade."
+        ]
+      },
+      {
+        "title": "6. Como Armazenamos e Protegemos Suas Informações Pessoais",
+        "paragraphs": [
+          "Aplicamos medidas de segurança industry-standard para proteger informações dos usuários contra acesso, divulgação, alteração, dano ou perda não autorizados, e atualizamos regularmente as tecnologias de segurança. A internet não pode ser absolutamente secure; tenha cautela ao enviar dados pessoais sensíveis."
+        ],
+        "subsections": [
+          {
+            "title": "6.1 Regras de Armazenamento",
+            "paragraphs": [
+              "Retemos informações pessoais apenas pelo período exigido por lei e para cumprir finalidades do serviço. Regras principais de retenção:"
+            ],
+            "bullets": [
+              "E-mail cadastrado: retido enquanto você utiliza normalmente o Xtrader APP; excluído imediatamente após a exclusão da conta;",
+              "Imagens temporárias de verificação facial: imagens faciais originais excluídas de nossos servidores imediatamente após comparação em tempo real (normalmente em poucos minutos); não armazenamos indefinidamente imagens faciais brutas;",
+              "Registros criptografados de resultados de verificação facial: retidos por até 5 anos a partir da data da verificação para cumprir requisitos de arquivo regulatório AML/KYC, resolução de disputas e prevenção de fraudes; excluídos em até 30 dias após a exclusão da conta;",
+              "Imagens faciais brutas de terceiros (Alibaba Cloud): excluídas em até 24 horas após a verificação; logs de auditoria de-identificados de terceiros retidos por no máximo 180 dias, conforme descrito na Seção 2.1.5."
+            ]
+          },
+          {
+            "title": "6.2 Medidas de Segurança",
+            "paragraphs": [
+              "6.2.1 Segurança da Conta: Todas as contas possuem mecanismos de segurança; senhas são criptografadas de forma irreversible; recuperação e verificação dependem do e-mail cadastrado. Proteja sua conta, senha e acesso ao e-mail.",
+              "6.2.2 Proteção do Backend: Dados de clientes criptografados e isolados; confidencialidade rigorosa de funcionários; acesso não autorizado proibido; firewalls e autenticação em múltiplos níveis implementados.",
+              "6.2.3 Precauções do Usuário: A comunicação online pode inevitavelmente revelar e-mail ou endereço; forneça apenas quando necessário. Entre em contato imediatamente com o atendimento ao cliente se sua conta, senha ou informações pessoais forem compromised."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "7. Seus Direitos",
+        "paragraphs": [
+          "Você deve garantir que todas as informações pessoais enviadas sejam verdadeiras e precisas. Ajudaremos a manter a integridade e a atualizar. Sujeito às leis aplicáveis, você possui os seguintes direitos:"
+        ],
+        "subsections": [
+          {
+            "title": "7.1 Direitos Básicos sobre Informações",
+            "bullets": [
+              "Acessar e copiar informações pessoais que armazenamos sobre você;",
+              "Solicitar correção ou atualização de informações imprecisas ou invalid (incluindo e-mail cadastrado);",
+              "Restringir ou recusar o uso das suas informações para marketing;",
+              "Solicitar exclusão das suas informações pessoais;",
+              "Solicitar explicação por escrito das nossas regras de tratamento de informações pessoais."
+            ],
+            "footer": "Entre em contato conosco pelos dados indicados ao final desta Política. Podemos recusar solicitações respaldadas por evidência razoável de fraude, impossibilidade ou dano à privacy de terceiros, informando os motivos."
+          },
+          {
+            "title": "7.2 Direito de Retirar o Consentimento",
+            "paragraphs": [
+              "Você pode retirar o consentimento para o tratamento das informações a qualquer momento. A retirada não afeta o tratamento lawful anterior à retirada nem o baseado em outros fundamentos legais."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "8. Como Protegemos Informações de Menores",
+        "paragraphs": [
+          "Os produtos e serviços do Xtrader APP são destinados principalmente a usuários adultos. Menores não podem abrir contas de forma independente nem realizar transações financeiras. Menores devem obter consentimento explícito dos pais ou responsáveis legais antes de utilizar. Tratamos dados de menores em estrita conformidade com as leis aplicáveis.",
+          "Se você for menor, peça ao seu responsável que leia esta Política e utilize o APP e envie informações pessoais apenas com consentimento do responsável. Se o responsável não concordar, interrompa o uso do serviço e entre em contato conosco.",
+          "Responsáveis com dúvidas sobre o tratamento de informações de menores podem entrar em contato conosco pelos canais oficiais indicados ao final desta Política."
+        ]
+      },
+      {
+        "title": "9. Coleta de Dados Faciais, Período de Armazenamento e Compartilhamento com Terceiros",
+        "paragraphs": [
+          "O Xtrader APP utiliza reconhecimento facial exclusivamente para verificação de identidade da conta (KYC). Esta seção explica claramente quais dados faciais coletamos, por quanto tempo os armazenamos, por que os retemos em cada período específico e com quem os compartilhamos. Não armazenamos indefinidamente dados faciais brutos."
+        ],
+        "subsections": [
+          {
+            "title": "9.1 Quais Dados Faciais Coletamos",
+            "bullets": [
+              "Imagens faciais capturadas pela câmera do seu dispositivo quando você inicia ativamente a verificação facial;",
+              "Dados de liveness detection utilizados para confirmar que você está fisicamente presente durante a verificação;",
+              "Metadados do resultado de verificação (status aprovado/reprovado, carimbo de data/hora da verificação, ID da transação)."
+            ]
+          },
+          {
+            "title": "9.2 Por Quanto Tempo Armazenamos Dados Faciais e Por Quê",
+            "bullets": [
+              "Imagens faciais brutas (nossos servidores): Excluídas imediatamente após a conclusão da verificação em tempo real, normalmente em poucos minutos. Motivo: imagens biométricas brutas são necessárias apenas para a correspondência instantânea de identidade e não são necessárias depois. Nunca armazenamos indefinidamente imagens faciais brutas.",
+              "Registros criptografados de resultados de verificação (nossos servidores): Retidos por até 5 anos a partir da data da verificação. Motivo: regulamentações financeiras AML/KYC aplicáveis exigem trilhas de auditoria de verificação de identidade para resolução de disputas e prevenção de fraudes. Todos esses registros são excluídos em até 30 dias após você excluir sua conta.",
+              "Dados temporários durante uma sessão de verificação ativa no seu dispositivo: Retidos apenas durante a duration dessa sessão e não persistidos após o término da verificação."
+            ]
+          },
+          {
+            "title": "9.3 Armazenamento de Dados Faciais por Terceiros (Alibaba Cloud)",
+            "bullets": [
+              "Compartilhado com: Alibaba Cloud Computing Co., Ltd. (Real Person Certification / Financial-grade Face Recognition SDK, incluindo AP-FaceDetectModule e VerifyIntlUniPlugin).",
+              "Motivo do compartilhamento: realizar liveness detection certificado e correspondência biométrica em tempo real com as informações do seu documento de identidade emitido pelo governo para verificação KYC segura e compliant.",
+              "Imagens faciais brutas (Alibaba Cloud): Excluídas em até 24 horas após a conclusão da verificação. Motivo: armazenadas apenas pelo período mínimo necessário para concluir a verificação e as verificações anti-fraud relacionadas.",
+              "Logs de verificação de-identificados e registros de auditoria (Alibaba Cloud): Retidos por no máximo 180 dias e excluídos automaticamente depois. Motivo: prevenção de fraudes e conformidade regulatória. A Alibaba Cloud não utiliza seus dados faciais para publicidade ou marketing.",
+              "Política de Privacidade da Alibaba Cloud: https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202107281509_18386.html"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "10. Provedores Terceiros e Seus Serviços",
+        "paragraphs": [
+          "10.1 Alibaba Cloud Real Person Certification SDK (Reconhecimento Facial)",
+          "Desenvolvedor: Alibaba Cloud Computing Co., Ltd.",
+          "Finalidade: Verificação de identidade da conta (KYC), liveness detection facial e correspondência biométrica de identidade",
+          "Dados Coletados: Imagens faciais, dados de liveness detection, informações do dispositivo necessárias para verificação",
+          "Método de Coleta: Coletados quando você inicia ativamente a verificação facial e autoriza o acesso à câmera",
+          "Compartilhamento e Armazenamento de Dados Faciais: Conforme detalhado na Seção 9, os dados faciais são compartilhados com a Alibaba Cloud apenas para verificação; imagens originais são excluídas em até 24 horas; logs de auditoria retidos por até 180 dias",
+          "Política de Privacidade da Alibaba Cloud: https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202107281509_18386.html",
+          "10.2 Umeng+ SDK",
+          "Desenvolvedor: Beijing Ruixun Lingtong Technology Co., Ltd.",
+          "Finalidade: Estatísticas do APP e controle de riscos anti-fraud",
+          "Dados Coletados: Identificadores do dispositivo, localização, informações de rede",
+          "Método de Coleta: Coleta automática após você concordar com esta Política de Privacidade",
+          "Política de Privacidade Oficial do Umeng+: https://www.umeng.com/page/policy"
+        ]
+      },
+      {
+        "title": "11. Como Esta Política É Atualizada",
+        "paragraphs": [
+          "Podemos revisar esta Política de Privacidade periodicamente devido a alterações legais, regulatórias ou operacionais. Após atualizações, notificaremos os usuários por diálogos in-app, anúncios, avisos na web ou e-mail cadastrado. O uso continuado do Xtrader APP constitui aceitação dos termos atualizados. Recomendamos revisar regularmente a versão mais recente."
+        ]
+      },
+      {
+        "title": "12. Como Entrar em Contato",
+        "paragraphs": [
+          "Para dúvidas, comentários, sugestões ou solicitações relativas a acesso, correção, exclusão de informações, retirada de consentimento, segurança da conta, reconhecimento facial ou alterações de e-mail, entre em contato conosco:",
+          "Address: Room 1006, 10/F, Gold & Silver Commercial Building, 12-18 Mercer Street, Sheung Wan, Hong Kong",
+          "Email: xtrader@xwgold19.com",
+          "Response Time: Responderemos em até 15 dias úteis após o recebimento da sua consulta ou solicitação."
+        ]
+      }
+    ]
+  },
+  "refundPolicy": [
+    {
+      "title": "I. Acordo especial sobre cancelamento de contrato e reembolsos",
+      "paragraphs": [
+        "Reconheço e concordo que os serviços fornecidos por esta plataforma são serviços digitais virtuais. A partir da data em que o pagamento do pedido é concluído com sucesso e o serviço é ativado (incluindo, mas não se limitando a, criação de conta, concessão de permissões e ativação do sistema de trading simulado), o serviço foi entregue de forma irreversível e começa a ser consumido. Portanto, a política de cancelamento/reembolso sem motivo em 7 dias não se aplica.",
+        "Confirmo que:"
+      ],
+      "bullets": [
+        "1. Após pagamento bem-sucedido, independentemente de eu efetivamente fazer login, usar ou iniciar o trading simulado, o pedido não pode ser cancelado e nenhum reembolso pode ser solicitado.",
+        "2. Solicitações de reembolso por motivos pessoais (como desistência, reprovação na avaliação, conta não utilizada, erros operacionais, mudança de ideia, etc.) podem ser rejeitadas diretamente pela plataforma.",
+        "3. Se eu violar os Termos e Condições da plataforma e regras relacionadas, a plataforma pode congelar a conta, encerrar o serviço ou cancelar a elegibilidade de acordo com o acordo, e nenhuma taxa paga será reembolsada."
+      ]
+    },
+    {
+      "title": "II. Execução defeituosa",
+      "paragraphs": [],
+      "bullets": [
+        "A plataforma não será responsável por reembolsos ou compensações por anomalias de serviço causadas por motivos alheios à plataforma, como operação inadequada do usuário, problemas de rede ou falhas de software de terceiros."
+      ]
+    },
+    {
+      "title": "III. Declaração de reconhecimento",
+      "paragraphs": [
+        "Li cuidadosamente e compreendi plenamente a política de cancelamento e reembolso acima, e reconheço a natureza dos serviços virtuais da plataforma e o acordo de que são não canceláveis e não reembolsáveis. Aceito voluntariamente estas regras e assumo as consequências correspondentes.",
+        "Inserir «Reconheço o conteúdo acima» indica que li, compreendi e concordei com todos os termos desta política."
+      ],
+      "bullets": []
+    }
+  ]
+}
